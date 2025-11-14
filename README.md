@@ -1,0 +1,1 @@
+# Installation-kiosk-wikimedia
